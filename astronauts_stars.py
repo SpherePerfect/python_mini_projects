@@ -11,7 +11,6 @@ if entered_binary == "True":
 elif entered_binary == "False":
     i = entered_number
     while i != 1:
-        print(i)
         print("*" * i)
         i = i-1
 
